@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-### I am a Computer Engingeering major at UF
-### C++, java, python programming
-### Looking to improve my programming skills & knowledge
-### And to add to awesome open-source projects!
+- I am a Computer Engingeering major at UF :crocodile:
+- C++, java, python programming
+- Looking to improve my programming skills & knowledge
+- And to add to awesome open-source projects!
 
-### email: nkotun@ufl.edu
+- email: nkotun@ufl.edu
 
-### Happy Hacking!
+- Happy Hacking! :smiley:
 
 <!--
 **neilkotun/neilkotun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
